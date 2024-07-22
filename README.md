@@ -1,0 +1,2 @@
+- Studying python for about a month, doing various useful or just interesting opensource projects for common people
+- There's no contact info yet, but there will be soon!
